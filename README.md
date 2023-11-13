@@ -12,3 +12,5 @@ sooo far i am still on my journey to figuring out github haha , but i am doing w
 Well i am still having challenges pushing to github , maybe i need to commit a whole day to trying to solve this problem , but i am currently working on somethings which is taking my time 
 
 after spending 5 hours straight on css , doind deep woork ,its safe to say css is very deep!! , that is why people run away from front end but not me.
+
+consistency is key!
