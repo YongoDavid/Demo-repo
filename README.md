@@ -14,3 +14,5 @@ Well i am still having challenges pushing to github , maybe i need to commit a w
 after spending 5 hours straight on css , doind deep woork ,its safe to say css is very deep!! , that is why people run away from front end but not me.
 
 consistency is key!
+
+coding in a manner you understand is very key , try not to over complicate things for yourself , and walk your way into new ways , keep trying till you understand , and dont stop coding 
