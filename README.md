@@ -18,3 +18,5 @@ consistency is key!
 coding in a manner you understand is very key , try not to over complicate things for yourself , and walk your way into new ways , keep trying till you understand , and dont stop coding 
 
 And finally i have been able to figure out github , thanks to my instructor at HIIT PLC , i can start pushing some projects that i have worked on 
+
+This is how you come alive and change your world
