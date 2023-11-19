@@ -21,3 +21,5 @@ And finally i have been able to figure out github , thanks to my instructor at H
 
 This is how you come alive and change your world
 again 
+
+javacript math methods / functions like math.round() , math.floor() , math.ceil() , were a bit confusing at first for me but not anymore 
