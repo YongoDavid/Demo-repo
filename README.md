@@ -24,3 +24,5 @@ again
 
 javacript math methods / functions like math.round() , math.floor() , math.ceil() , were a bit confusing at first for me but not anymore 
 well i am participating in a hackthon wish myself luck 
+
+i think i mightt be getting ahead of myself , do i need to go back to javascript and not abandon it for this Hackathon , there will always be others 
