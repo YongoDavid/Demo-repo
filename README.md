@@ -23,3 +23,4 @@ This is how you come alive and change your world
 again 
 
 javacript math methods / functions like math.round() , math.floor() , math.ceil() , were a bit confusing at first for me but not anymore 
+well i am participating in a hackthon wish myself luck 
