@@ -26,3 +26,5 @@ javacript math methods / functions like math.round() , math.floor() , math.ceil(
 well i am participating in a hackthon wish myself luck 
 
 i think i mightt be getting ahead of myself , do i need to go back to javascript and not abandon it for this Hackathon , there will always be others 
+
+javascript just getting crazy each time
