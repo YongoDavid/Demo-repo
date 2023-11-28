@@ -28,3 +28,5 @@ well i am participating in a hackthon wish myself luck
 i think i mightt be getting ahead of myself , do i need to go back to javascript and not abandon it for this Hackathon , there will always be others 
 
 javascript just getting crazy each time
+
+I have taken a few days to really practice and learn javascript well and is has been amazing , just keep practicing and it will be easier.  also i just need to leave the hard part and come back later to it with a fresh mind and i will figure it out 
