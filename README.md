@@ -32,3 +32,4 @@ javascript just getting crazy each time
 I have taken a few days to really practice and learn javascript well and is has been amazing , just keep practicing and it will be easier.  also i just need to leave the hard part and come back later to it with a fresh mind and i will figure it out 
 
 Using DOMS to query and interact with my HTML document
+Another day trying to work with javascript and fresh what i have learnt soo far
