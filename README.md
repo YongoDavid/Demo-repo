@@ -33,3 +33,5 @@ I have taken a few days to really practice and learn javascript well and is has 
 
 Using DOMS to query and interact with my HTML document
 Another day trying to work with javascript and fresh what i have learnt soo far
+
+practicing node.js
