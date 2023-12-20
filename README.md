@@ -41,3 +41,5 @@ another practice for node.js
 Starting a new project for HIIT
 
 its been a while since i came here to give an update , i have finined another static for Hiit , i just went through all i have done so far , and i need to practice more
+
+now its times go over all the codes and projects we have done so far , and pratice alone side 
