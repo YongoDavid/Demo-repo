@@ -45,3 +45,5 @@ its been a while since i came here to give an update , i have finined another st
 now its times go over all the codes and projects we have done so far , and pratice alone side 
 
 still going over the things ive done sooo far from my class github repo
+
+lets learn and code some more 
