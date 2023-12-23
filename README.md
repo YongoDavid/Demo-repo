@@ -47,3 +47,11 @@ now its times go over all the codes and projects we have done so far , and prati
 still going over the things ive done sooo far from my class github repo
 
 lets learn and code some more 
+
+
+API's and ferch Api are a bit diffreent
+
+fetch api is a tool that is usied to manage requests and response
+with certain protocals 
+while API's are what make software / client wnd server side interact with each other 
+
