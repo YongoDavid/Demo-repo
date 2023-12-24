@@ -55,3 +55,4 @@ fetch api is a tool that is usied to manage requests and response
 with certain protocals 
 while API's are what make software / client wnd server side interact with each other 
 
+i have finished the front end of all my recent projects i am working on
