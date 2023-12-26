@@ -57,3 +57,5 @@ while API's are what make software / client wnd server side interact with each o
 
 i have finished the front end of all my recent projects i am working on
 i will start the functionality of these projects ones i am ready
+
+working on this blog and estate website together and it is crazy 
