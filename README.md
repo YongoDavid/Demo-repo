@@ -64,3 +64,4 @@ i have been able to handle most of the javascript for the signup and login form
 
 trying to figure out the javascript in this RE project and myy head os going crazy 
 maybe i should jusr refer to old code , that might help instead of trying to write new code and confuse myself 
+Making use of template literals is wayyyy better than creating tags and elements again with all the stress of javascript 
