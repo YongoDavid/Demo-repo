@@ -68,3 +68,5 @@ Making use of template literals is wayyyy better than creating tags and elements
 
 this script is really confusing me , i feel soo confused right now at 4:37am 28 dec 2023 Lord help me
 lets try and figure out the script on this real estate website
+
+trying to work on these two projects are a but stressful 
