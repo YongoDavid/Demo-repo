@@ -67,3 +67,4 @@ maybe i should jusr refer to old code , that might help instead of trying to wri
 Making use of template literals is wayyyy better than creating tags and elements again with all the stress of javascript 
 
 this script is really confusing me , i feel soo confused right now at 4:37am 28 dec 2023 Lord help me
+lets try and figure out the script on this real estate website
