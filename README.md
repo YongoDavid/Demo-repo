@@ -70,3 +70,4 @@ this script is really confusing me , i feel soo confused right now at 4:37am 28 
 lets try and figure out the script on this real estate website
 
 trying to work on these two projects are a but stressful 
+took a whole day off all my prjects and i am back too try and work it out 
