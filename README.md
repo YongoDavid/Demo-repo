@@ -73,3 +73,4 @@ trying to work on these two projects are a but stressful
 took a whole day off all my prjects and i am back too try and work it out 
 what i was avoiding has caught me , i might have to use javascript to creating the list of properties again 
 i have been able too create the list of the properties using javacript 
+now i am going to spend soometime looking at poosstman just to grasp the basics before the end of tthe year 
