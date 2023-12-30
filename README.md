@@ -72,3 +72,4 @@ lets try and figure out the script on this real estate website
 trying to work on these two projects are a but stressful 
 took a whole day off all my prjects and i am back too try and work it out 
 what i was avoiding has caught me , i might have to use javascript to creating the list of properties again 
+i have been able too create the list of the properties using javacript 
