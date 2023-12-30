@@ -65,6 +65,7 @@ i have been able to handle most of the javascript for the signup and login form
 trying to figure out the javascript in this RE project and myy head os going crazy 
 maybe i should jusr refer to old code , that might help instead of trying to write new code and confuse myself 
 Making use of template literals is wayyyy better than creating tags and elements again with all the stress of javascript 
+i am meant to look at mysql as well and go into it knowing more of the basics 
 
 this script is really confusing me , i feel soo confused right now at 4:37am 28 dec 2023 Lord help me
 lets try and figure out the script on this real estate website
