@@ -80,3 +80,6 @@ and mysql
 i left all my projects soo far and went to play around with postman and get used to its interface
 also pratciced a few thing with postman by using a random book API on github 
 When using other peoples API it is best to read thier documentation to know how best to interact with thier API's
+
+Also i have learnt that storing things in variables when using postman will help alot
+it makes things easier to access and you dont have to hard code most of the time
