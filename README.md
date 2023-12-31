@@ -83,3 +83,9 @@ When using other peoples API it is best to read thier documentation to know how 
 
 Also i have learnt that storing things in variables when using postman will help alot
 it makes things easier to access and you dont have to hard code most of the time
+
+31/12/2023
+This is my last commit for the year , it has been an amazing year starting
+wed development proper , i hage learnt sooo much in such a short time 
+God has been faithful to me
+
