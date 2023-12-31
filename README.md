@@ -78,3 +78,5 @@ now i am going to spend soometime looking at postman just to grasp the basics be
 and mysql
 
 i left all my projects soo far and went to play around with postman and get used to its interface
+also pratciced a few thing with postman by using a random book API on github 
+
