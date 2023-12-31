@@ -76,3 +76,5 @@ what i was avoiding has caught me , i might have to use javascript to creating t
 i have been able too create the list of the properties using javacript 
 now i am going to spend soometime looking at postman just to grasp the basics before the end of tthe year 
 and mysql
+
+i left all my projects soo far and went to play around with postman and get used to its interface
